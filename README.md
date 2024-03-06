@@ -1,0 +1,1 @@
+HackerRank SQL challenges solutions.
