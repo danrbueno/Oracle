@@ -1,1 +1,1 @@
-HackerRank SQL challenges solutions.
+Scripts in SQL and PL-SQL using Oracle database.
